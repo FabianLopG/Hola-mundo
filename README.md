@@ -1,7 +1,7 @@
 # Hola universo
-first repository
+Primer repositorio
 
 Autor: Fabian López
-Create: Sep 20 2022
+Creado: 20 Sep 2022
 
 Aprendiendo a usar GitHub
